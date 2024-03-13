@@ -1,0 +1,79 @@
+    1  Is -Irh
+    2  pwd
+    3  1s
+    4  git branch
+    5  git clone https://github.com/Dumisanisibiya/dumisanisibiya.github.io.git
+    6  cd dumisanisibiya
+    7  cd dumisanisibiya.github.io
+    8  code .
+    9  git config --global user.email "krystophercarter8@gmail.com"
+   10  git config --global user.email
+   11  git checkout main
+   12  git clone https://github.com/Dumisanisibiya/dumisanisibiya.github.io.git
+   13  git branch -a
+   14  git switch main
+   15  git status
+   16  https://github.com/Dumisanisibiya/dumisanisibiya.github.io.git
+   17  https://github.com/Dumisanisibiya/dumisanisibiya.github.io.git git status
+   18  mkdir git-basic-exercises
+   19  cd git-basic-exercises
+   20  ls -a
+   21  git init
+   22  ls -a
+   23  git status
+   24  touch README.md
+   25  ls -a
+   26  git status
+   27  git log
+   28  git add
+   29  git add REAADME.md
+   30  git add README.md
+   31  git status
+   32  git rm --cached README.md
+   33  git status
+   34  git add README.md
+   35  git commit -m "initial commit"
+   36  git log
+   37  q
+   38  nano README.md
+   39  cat README.md
+   40  git status
+   41  git commit -a "second commit"
+   42  git commit -m "second commit"
+   43  git log
+   44  cat README.md
+   45  git status
+   46  ls -a
+   47  cat README.md
+   48  git add
+   49  git add cat README.md
+   50  git add README.md
+   51  git status
+   52  git commit -m "second commit"
+   53  git log
+   54  q
+   55  git checkout 503ca1d8cdb78cd9a827c03b74d51a9951f82b22
+   56  cat README.md
+   57  git checkout main
+   58  git checkout git-basic-exercises
+   59  cat README.md
+   60  git branch
+   61  git checkout master
+   62  cat README.md
+   63  git branch
+   64  git checkout milkshake-flavours
+   65  git fetch
+   66  git checkout milkshake-flavours
+   67  git checkout -b milkshake-flavours
+   68  git branch
+   69  nano milkshakes.md
+   70  git status
+   71  git add milkshakes.md
+   72  git commit -m "added initial flavours"
+   73  git log
+   74  git checkout main
+   75  git checkout master
+   76  git checkout history
+   77  git checkout -b history
+   78  git branch
+   79  history > history.txt
